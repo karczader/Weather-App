@@ -1,0 +1,21 @@
+.App{
+  margin: 100px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  min-height: 500px;
+  padding: 20px;
+}
+
+h1{
+  border-bottom: 1px solid grey;
+}
+
+.App input{
+  margin: 20px;
+  padding: 10px 20px;
+  border: 2px, solid grey;
+  background-color: #fff;
+  transition: .3s;
+}

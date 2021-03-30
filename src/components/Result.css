@@ -1,0 +1,10 @@
+.weatherInformation{
+    margin-left: 20px;
+    margin-right: 50px;
+    padding:  20px;
+    border:  2px solid #ddd;
+}
+
+.oneInformation{
+    margin-bottom: 5px;
+}
